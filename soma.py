@@ -7,3 +7,6 @@ def Subtrair(x, y):
 #Segunda adição (terceiro commit)
 def Multiplicar(x, y):
     return x * y
+#Terceira adição (quarto commit)
+def Dividir(x, y):
+    return x / y
