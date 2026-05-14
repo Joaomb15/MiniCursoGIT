@@ -16,4 +16,8 @@ def elevar(x, y):
 #tentando fazer o branch
 def divisivelpor2 (x):
     return x%2==0
+#tentando 2 branch
+def multiplicarp2 (x):
+    return x*2
+
 
