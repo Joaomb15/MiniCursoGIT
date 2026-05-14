@@ -13,4 +13,6 @@ def Dividir(x, y):
 #Quarta adição (quinto commit)
 def elevar(x, y):
     return x ** y
+def divisivelpor2 (x):
+    return x%2==0
 
