@@ -10,3 +10,7 @@ def Multiplicar(x, y):
 #Terceira adição (quarto commit)
 def Dividir(x, y):
     return x / y
+#Quarta adição (quinto commit)
+def elevar(x, y):
+    return x ** y
+
